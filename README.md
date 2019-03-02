@@ -12,6 +12,6 @@ Text text
 `Some code`
 {% endspoiler %}
 
-Check:
+Submit:
 
-{% check %}
+{% submit %}
