@@ -11,9 +11,3 @@ Text text
 {% spoiler "Hint" %}
 `Some code`
 {% endspoiler %}
-
-Check:
-{% check %}
-
-Submit
-{% submit %} 
