@@ -1,4 +1,5 @@
 lab50:
+  cmd: git init
   window:
     - editor
     - readme
