@@ -1,0 +1,7 @@
+lab50:
+  cmd: git init \n git add .
+  window:
+    - editor
+    - readme
+    - terminal
+    - browser
